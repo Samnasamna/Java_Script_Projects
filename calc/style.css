@@ -25,7 +25,7 @@
     height:60px;
     border-radius: 10px;
     box-shadow: 3px 3px 10px rgba(243, 208, 215, 0.6),3px 3px 10px rgba(243, 208, 215, 0.6);
-    background: #EFCBD3 ;
+    background: #dda7b2;
     font-size:20px;
     color:#fff;
     cursor:pointer;
@@ -50,5 +50,5 @@ form #display input{
 
 .calculator form input:hover{
     transform: scale(1.1); /* Scales the button up to 110% */
-    background-color: #e6b8c1;
+    background-color: #e9b5c0 ;
 }
